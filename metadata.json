@@ -1,0 +1,8 @@
+{
+  "name": "App Refresher - Chennai AR Exploration",
+  "description": "An immersive AR game world and heritage exploration platform for Chennai, enabling users to experience authentic local lore, discover hidden spots, and track interactive quests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
